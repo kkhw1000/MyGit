@@ -6,6 +6,8 @@ public class A {
 		System.out.println("this is A");
 		System.out.println("this is A22");
 		System.out.println("this is changed A");
+		System.out.println("this is A");
+		System.out.println("this is changed A in devC");
 
 	}
 
